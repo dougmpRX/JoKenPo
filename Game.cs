@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace JoKenPo
 {
@@ -51,7 +47,7 @@ namespace JoKenPo
             if (mil < 333)
             {
                 return 0;
-            } 
+            }
             else if (mil >= 333 && mil < 667)
             {
                 return 1;
