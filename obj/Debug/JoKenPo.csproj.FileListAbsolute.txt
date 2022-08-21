@@ -1,0 +1,11 @@
+C:\Workspace\CursoCSharp\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe.config
+C:\Workspace\CursoCSharp\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe
+C:\Workspace\CursoCSharp\JoKenPo\JoKenPo\bin\Debug\JoKenPo.pdb
+C:\Workspace\CursoCSharp\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.AssemblyReference.cache
+C:\Workspace\CursoCSharp\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CursoCSharp\JoKenPo\JoKenPo\obj\Debug\JoKenPo.Form1.resources
+C:\Workspace\CursoCSharp\JoKenPo\JoKenPo\obj\Debug\JoKenPo.Properties.Resources.resources
+C:\Workspace\CursoCSharp\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.GenerateResource.cache
+C:\Workspace\CursoCSharp\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.CoreCompileInputs.cache
+C:\Workspace\CursoCSharp\JoKenPo\JoKenPo\obj\Debug\JoKenPo.exe
+C:\Workspace\CursoCSharp\JoKenPo\JoKenPo\obj\Debug\JoKenPo.pdb
